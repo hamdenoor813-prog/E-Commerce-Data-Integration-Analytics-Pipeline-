@@ -16,6 +16,6 @@ This project is an End-to-End Data Engineering Pipeline for an E-Commerce platfo
 - عبدالرحمن محمد  أحمد صبري
 - هدي نصر اسماعيل صالح
 - احمد محمد ربيع عبد الغفور
-- عامر محمد صابر احمد 
+- عامر محمد صبري صابر احمد 
 ## 📁 Repository Structure
 *(Will be organized into pipelines, data, and scripts)*
